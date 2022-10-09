@@ -12,3 +12,4 @@ int num = int.Parse(Console.ReadLine());
           Console.WriteLine("нет");
      else if (num > 5)
           Console.WriteLine("да");
+          
